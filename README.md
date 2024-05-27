@@ -1,4 +1,4 @@
-# Face-Recognition-Project Using OpenCV, Arduino
+# Face Recognition Project Using OpenCV, Arduino
 
 This has three main features
 
